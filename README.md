@@ -8,7 +8,7 @@ Este proyecto implementa una **Arquitectura Basada en Eventos (EDA)** y un model
 
 ## 🛠️ Stack Tecnológico & Arquitectura
 
-- **Frontend**: Angular + TailwindCSS + Charts.js + Shadcn
+- **Frontend**: SvelteKit + TailwindCSS + Charts.js + Shadcn
 - **API Principal:** NestJS (TypeScript) + PostgreSQL + Prisma ORM.
 - **Message Broker:** RabbitMQ (Gestión de colas asíncronas de scraping).
 - **Auto-scaler**: Microservicio de NestJS con child_process o un cliente ligero de Docker.
